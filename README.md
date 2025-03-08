@@ -20,6 +20,8 @@ Here are some of my highlighted projects:
 - [Project Two](#) - A brief description of another cool project.
 
 ---
+[![trophy](https://github-profile-trophy.vercel.app/?username=TANMAYPRAJAPATI33&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/TANMAYPRAJAPATI33/&title=Profile%20Views)
 
