@@ -1,8 +1,8 @@
-name: Generate Snake
+name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Runs every hour
+    - cron: '0 0 * * *'  # Runs every day at midnight
   workflow_dispatch:
 
 permissions:
@@ -13,15 +13,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v2
-        with:
-          persist-credentials: true
+        uses: actions/checkout@v3
 
-      - name: Generate Snake Contribution Grid
+      - name: Generate Contribution Snake
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/snake.svg  # Saves file in "dist/" folder
+          outputs: dist/snake.svg  # Places snake.svg in a 'dist' folder
 
       - name: Commit and Push Generated Snake
         run: |
@@ -30,4 +28,3 @@ jobs:
           git add dist/snake.svg
           git commit -m "Updated snake animation" || echo "No changes to commit"
           git push
-  
