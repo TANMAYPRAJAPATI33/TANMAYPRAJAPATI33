@@ -12,12 +12,7 @@ I'm a **second-year Computer Science student** specializing in **cybersecurity**
 - 🐧 **Linux:** Passionate about the open-source world and Linux environments.
 
 ---
-
-## My Projects
-
-Here are some of my highlighted projects:
-- [Project One](#) - A brief description of what this project does.
-- [Project Two](#) - A brief description of another cool project.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TANMAYPRAJAPATI33&layout=compact&theme=radical)
 
 ---
 [![trophy](https://github-profile-trophy.vercel.app/?username=TANMAYPRAJAPATI33&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
