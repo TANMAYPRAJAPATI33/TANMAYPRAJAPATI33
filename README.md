@@ -37,26 +37,6 @@ I'm a **second-year Computer Science student** specializing in **cybersecurity**
 - Advanced MERN Stack development
 - Enhancing my Linux and Docker skills
 
----
-
-## Project Highlights
-
-- **Project One:** A brief overview of the project, its tech stack, and [link](#).
-- **Project Two:** Another exciting project description with [link](#).
-
----
-
-## Open Source Contributions
-
-- Contributed to [Project Name](#) – improved security features and fixed bugs.
-- Participated in Hacktoberfest to help improve various open-source projects.
-
----
-
-## Recent Articles
-
-- [Understanding Cybersecurity: A Beginner's Guide](#)
-- [Blockchain Basics: How Decentralization Works](#)
 
 ---
 
