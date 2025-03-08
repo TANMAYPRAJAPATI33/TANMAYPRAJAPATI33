@@ -21,6 +21,9 @@ Here are some of my highlighted projects:
 
 ---
 
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/TANMAYPRAJAPATI33/&title=Profile%20Views)
+
+
 ## GitHub Stats
 
 ![Tanmay Prajapati's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TANMAYPRAJAPATI33&show_icons=true&theme=radical)
