@@ -1,6 +1,6 @@
 # Hi, I'm Tanmay Prajapati! 👋
 
-I'm a **second-year Computer Science student** specializing in **cybersecurity**, also learning **blockchain**, **Web3**, **MERN stack**, and **Linux**. Welcome to my GitHub profile!
+I'm a **second-year Computer Science student** specializing in **cybersecurity** Welcome to my GitHub profile!
 
 ---
 
