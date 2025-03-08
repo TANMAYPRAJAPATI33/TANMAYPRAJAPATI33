@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Tanmay Prajapati! 👋
 
-<!--
-**TANMAYPRAJAPATI33/TANMAYPRAJAPATI33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **second-year Computer Science student** specializing in **cybersecurity**, also learning **blockchain**, **Web3**, **MERN stack**, and **Linux**. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 🔐 **Cybersecurity:** Learning the foundations and exploring the latest trends in cybersecurity.
+- 🔗 **Blockchain & Web3:** Diving into decentralized technologies and innovations.
+- 💻 **MERN Stack:** Building full-stack web applications using MongoDB, Express, React, and Node.js.
+- 🐧 **Linux:** Passionate about the open-source world and Linux environments.
+
+---
+
+## My Projects
+
+Here are some of my highlighted projects:
+- [Project One](#) - A brief description of what this project does.
+- [Project Two](#) - A brief description of another cool project.
+
+---
+
+## GitHub Stats
+
+![Tanmay Prajapati's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TANMAYPRAJAPATI33&show_icons=true&theme=radical)
+
+---
+
+## Connect With Me
+
+- [LinkedIn](#)
+- [Twitter](#)
+
+![GitHub followers](https://img.shields.io/github/followers/TANMAYPRAJAPATI33?style=social)
