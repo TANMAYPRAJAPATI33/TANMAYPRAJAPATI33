@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '0 * * * *'  # Runs every hour
   workflow_dispatch:
 
 permissions:
@@ -12,20 +12,22 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout Repository
         uses: actions/checkout@v2
         with:
           persist-credentials: true
 
-      - name: Generate Snake
-        uses: Platane/snk@v2
+      - name: Generate Snake Contribution Grid
+        uses: Platane/snk@v3
         with:
-          args: "--width 600 --height 200"
+          github_user_name: ${{ github.repository_owner }}
+          outputs: dist/snake.svg  # Saves file in "dist/" folder
 
-      - name: Commit and Push
+      - name: Commit and Push Generated Snake
         run: |
           git config --global user.email "action@github.com"
           git config --global user.name "GitHub Action"
-          git add snake.svg
+          git add dist/snake.svg
           git commit -m "Updated snake animation" || echo "No changes to commit"
           git push
+  
