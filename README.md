@@ -39,11 +39,6 @@ I'm a **second-year Computer Science student** specializing in **cybersecurity**
 
 
 ---
-## My Lottie Animation
-
-I created this animation using LottieFiles and converted it to GIF:
-
-![Cool Animation](https://path/to/your-converted-lottie.gif)
 
 
 ## GitHub Stats
