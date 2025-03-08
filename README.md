@@ -9,7 +9,7 @@ I'm a **second-year Computer Science student** specializing in **cybersecurity**
 - 🔐 **Cybersecurity:** Learning the foundations and exploring the latest trends in cybersecurity.
 - 🔗 **Blockchain & Web3:** Diving into decentralized technologies and innovations.
 - 💻 **MERN Stack:** Building full-stack web applications using MongoDB, Express, React, and Node.js.
-- 🐧 **Linux:** Passionate about the open-source world and Linux environments.
+- 🐧 **Linux & Docker:** Passionate about open-source, containerization, and Linux environments.
 
 ---
 
@@ -30,13 +30,41 @@ I'm a **second-year Computer Science student** specializing in **cybersecurity**
 
 ---
 
+## Currently Learning / Focusing On
+
+- Cybersecurity fundamentals and practical applications
+- Building decentralized apps (dApps) with blockchain and Web3
+- Advanced MERN Stack development
+- Enhancing my Linux and Docker skills
+
+---
+
+## Project Highlights
+
+- **Project One:** A brief overview of the project, its tech stack, and [link](#).
+- **Project Two:** Another exciting project description with [link](#).
+
+---
+
+## Open Source Contributions
+
+- Contributed to [Project Name](#) – improved security features and fixed bugs.
+- Participated in Hacktoberfest to help improve various open-source projects.
+
+---
+
+## Recent Articles
+
+- [Understanding Cybersecurity: A Beginner's Guide](#)
+- [Blockchain Basics: How Decentralization Works](#)
+
+---
+
 ## GitHub Stats
 
 ![Tanmay Prajapati's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TANMAYPRAJAPATI33&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TANMAYPRAJAPATI33&layout=compact&theme=radical)
-
----
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=TANMAYPRAJAPATI33&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -46,8 +74,13 @@ I'm a **second-year Computer Science student** specializing in **cybersecurity**
 
 ## Connect With Me
 
-- [LinkedIn](#)
-- [Twitter](#)
-- [Instagram](#)
+- [LinkedIn](https://www.linkedin.com/in/tanmay-prajapati-16a4a628b/)
+- [X (Twitter)](https://x.com/Tanmay_330)
+- [Instagram](https://www.instagram.com/_tanmay_33)
+- [Email Me](mailto:tanmayprajapati190@gmail.com)
 
 ![GitHub followers](https://img.shields.io/github/followers/TANMAYPRAJAPATI33?style=social)
+
+---
+
+*Feel free to explore my repositories and reach out if you’d like to collaborate or chat about tech!*
