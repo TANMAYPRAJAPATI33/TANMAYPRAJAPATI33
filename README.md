@@ -12,6 +12,12 @@ I'm a **second-year Computer Science student** specializing in **cybersecurity**
 - 🐧 **Linux & Docker:** Passionate about open-source, containerization, and Linux environments.
 
 ---
+## My Custom Animated Profile Site
+
+Check out my interactive, animated profile site built with Anime.js!
+
+[Visit my site](https://TANMAYPRAJAPATI33.github.io/)
+
 
 ## Tech Stack
 
