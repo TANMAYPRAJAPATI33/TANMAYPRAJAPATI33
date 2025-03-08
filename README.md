@@ -63,8 +63,7 @@ I'm a **second-year Computer Science student** specializing in **cybersecurity**
 
 ---
 
-## Contributions Snake
-![Contribution Snake](./snake.svg)
-
+## 🐍 Contributions Snake
+![Contribution Snake](./dist/snake.svg)
 
 *Feel free to explore my repositories and reach out if you’d like to collaborate or chat about tech!*
