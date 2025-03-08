@@ -12,6 +12,12 @@ I'm a **second-year Computer Science student** specializing in **cybersecurity**
 - 🐧 **Linux:** Passionate about the open-source world and Linux environments.
 
 ---
+
+## GitHub Stats
+
+![Tanmay Prajapati's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TANMAYPRAJAPATI33&show_icons=true&theme=radical)
+
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TANMAYPRAJAPATI33&layout=compact&theme=radical)
 
 ---
@@ -21,15 +27,14 @@ I'm a **second-year Computer Science student** specializing in **cybersecurity**
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/TANMAYPRAJAPATI33/&title=Profile%20Views)
 
 
-## GitHub Stats
-
-![Tanmay Prajapati's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TANMAYPRAJAPATI33&show_icons=true&theme=radical)
-
 ---
 
 ## Connect With Me
 
 - [LinkedIn](#)
 - [Twitter](#)
+
+![Fun GIF](https://media.giphy.com/media/xyz123/giphy.gif)
+
 
 ![GitHub followers](https://img.shields.io/github/followers/TANMAYPRAJAPATI33?style=social)
